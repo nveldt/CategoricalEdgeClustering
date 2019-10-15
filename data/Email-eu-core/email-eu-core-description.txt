@@ -1,0 +1,3 @@
+Email-eu-core obtained from http://snap.stanford.edu/data/email-Eu-core.html
+
+Edges are made undirected and unweighted, and we take the largest connected component, before storing in a .mat file.

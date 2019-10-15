@@ -1,0 +1,27 @@
+Original data obtained from the What's Cooking Kaggle competition https://www.kaggle.com/c/whats-cooking
+
+Nodes are ingredients, edges corresponds to recipes, and edge categories correspond to one of 20 different types of cuisine:
+
+1: korean
+2: russian
+3: vietnamese
+4: filipino
+5: brazilian
+6: indian
+7: mexican
+8: moroccan
+9: southern_us
+10: irish
+11: thai
+12: british
+13: chinese
+14: japanese
+15: french
+16: greek
+17: spanish
+18: cajun_creole
+19: jamaican
+20: italian
+
+Since the test dataset from the Kaggle competition doesn't come with edge labels, we only use the training set.
+

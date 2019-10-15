@@ -1,0 +1,4 @@
+A hyperedge corresponds to a set of products bought in a visit to Walmart. The color
+is the most common "trip type" assigned to that group of items, where "trip type"
+is curated by Walmart. Data from
+https://www.kaggle.com/c/walmart-recruiting-trip-type-classification

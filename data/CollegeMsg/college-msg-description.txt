@@ -1,0 +1,3 @@
+Data obtained from http://snap.stanford.edu/data/CollegeMsg.html
+
+Edges represent time-stamped private messages between two users in a social media platform at the University of California, Irvine. 

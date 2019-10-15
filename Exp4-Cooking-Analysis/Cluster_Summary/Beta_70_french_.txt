@@ -1,0 +1,81 @@
+Beta = 70: 6069 nodes and 26760 hyperedges
+There are 24 ingredients that LP includes and MV does not
+
+The LP includes 24 ingredients that Majority does not:
+seltzer, ruby red grapefruit, sorbet, baking spray, quatre épices, strawberry ice cream, dry hard cider, icing, prunes, cointreau, dill seed, wondra flour, dark muscovado sugar, reduced fat firm tofu, quinces, tangerine juice, black bass, cider, Equal Sweetener, beef shoulder roast, duxelles, sour cherries, chocolate chips, demerara sugar, 
+The LP uses 15 additional ingredients that Majority does not use:
+dessert wine, eau de vie, genoise, macadamia nuts, muscovy, brioche, coulis, cipollini onions, char fillets, crème de framboise, rendered duck fat, sole fillet, soft-shelled crabs, vanilla sugar, chocolate mousse, 
+LP can make the following recipes that Majority Vote cannot.
+
+
+Recipe 1 with common ingredients:
+ cointreau, vanilla sugar, bittersweet chocolate, unsalted butter, walnuts, bread crumb fresh, large eggs, orange, raisins, 
+
+Recipe 2 with common ingredients:
+ fresh basil, ground black pepper, cooking spray, plum tomatoes, minced garlic, zucchini, salt, reduced fat firm tofu, eggplant, coulis, carrots, tomato sauce, finely chopped onion, chopped fresh thyme, ground cumin, 
+
+Recipe 3 with common ingredients:
+ almond extract, bittersweet chocolate, sugar, sour cherries, brioche, heavy cream, unsalted butter, kirsch, 
+
+Recipe 4 with common ingredients:
+ sugar, whole milk, all-purpose flour, prunes, unsalted butter, vanilla extract, water, raisins, armagnac, powdered sugar, large eggs, salt, 
+
+Recipe 5 with common ingredients:
+ tangerine, fresh lemon juice, powdered sugar, large egg yolks, tangerine juice, sugar, unsalted butter, cream of tartar, large egg whites, corn starch, 
+
+Recipe 6 with common ingredients:
+ water, cider, calvados, sugar, 
+
+Recipe 7 with common ingredients:
+ sugar, cold water, armagnac, prunes, fresh orange juice, 
+
+Recipe 8 with common ingredients:
+ vanilla beans, red wine, sugar, large egg yolks, armagnac, fennel seeds, milk, salt, prunes, large egg whites, all-purpose flour, 
+
+Recipe 9 with common ingredients:
+ large egg whites, baking powder, margarine, powdered sugar, baking spray, cake flour, bananas, vanilla extract, macadamia nuts, dark rum, salt, 
+
+Recipe 10 with common ingredients:
+ unsalted butter, fresh lemon juice, black pepper, whole milk, wondra flour, kosher salt, butter, soft-shelled crabs, flat leaf parsley, 
+
+Recipe 11 with common ingredients:
+ lemon, freshly ground pepper, black bass, extra-virgin olive oil, chopped parsley, cipollini onions, thyme, yukon gold potatoes, salt, 
+
+Recipe 12 with common ingredients:
+ quatre épices, shallots, muscovy, thyme, kosher salt, garlic, clove, bay leaves, rendered duck fat, 
+
+Recipe 13 with common ingredients:
+ granny smith apples, crème de framboise, dry hard cider, 
+
+Recipe 14 with common ingredients:
+ sugar, sour cherries, eau de vie, 
+
+Recipe 15 with common ingredients:
+ large egg yolks, ruby red grapefruit, dessert wine, sugar, 
+
+Recipe 16 with common ingredients:
+ large egg yolks, heavy whipping cream, sugar, vanilla extract, tangerine, salt, large eggs, tangerine juice, 
+
+Recipe 17 with common ingredients:
+ sugar, raisins, armagnac, prunes, whole milk, confectioners sugar, unsalted butter, salt, pure vanilla extract, large eggs, all-purpose flour, 
+
+Recipe 18 with common ingredients:
+ mushrooms, genoise, confectioners sugar, icing, chocolate mousse, bittersweet chocolate, 
+
+Recipe 19 with common ingredients:
+ large eggs, chocolate chips, unsalted butter, vanilla extract, vanilla sugar, all-purpose flour, baking soda, sea salt, 
+
+Recipe 20 with common ingredients:
+ water, calvados, whole milk, fresh lemon juice, unsalted butter, quinces, salt, large egg whites, lemon zest, vanilla, confectioners sugar, sugar, granulated sugar, large eggs, all-purpose flour, 
+
+Recipe 21 with common ingredients:
+ strawberry ice cream, sorbet, 
+
+Recipe 22 with common ingredients:
+ water, dark muscovado sugar, heavy cream, large egg yolks, salt, demerara sugar, vanilla, 
+
+Recipe 23 with common ingredients:
+ vegetable oil, seltzer, smoked paprika, all-purpose flour, sole fillet, 
+
+Recipe 24 with common ingredients:
+ duxelles, dry white wine, leeks, cooking spray, salt, char fillets, 

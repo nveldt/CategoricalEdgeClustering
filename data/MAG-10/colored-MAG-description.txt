@@ -1,0 +1,15 @@
+Original data obtained from https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/
+
+A hyperedge corresponds to the set of authors of a paper. The color is the most
+common conference where they published, out of the following conferences:
+1: KDD
+2: WWW
+3: ICML
+4: NeurIPS
+5: STOC
+6: FOCS
+7: CVPR
+8: ICCV
+9: VLDB
+10: SIGMOD
+

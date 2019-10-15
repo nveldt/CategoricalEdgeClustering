@@ -1,0 +1,11 @@
+Clothing, Shoes and Accessories: 5, 23, 28, 29, 33, 38, 42, 45, 46, 47, 48, 54, 57, 59
+Electronics and Office: 25, 30, 43, 51, 53
+Home, Furniture and Appliances: 31, 32, 39, 44, 49, 52
+Home Improvement and Patio: 50, 56
+Baby: 26, 40
+Toys, Games, and Video Games: 34, 41
+Food, Household and Pets: 1, 2, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 20, 21, 63
+Pharmacy, Health and Beauty: 16, 17, 22, 60, 61, 65, 68
+Sports, Fitness and Outdoors: 36
+Auto, Tires and Industrial: 24, 35, 55
+Discard: 3, 27, 37, 62, 64, 66, 67, 58

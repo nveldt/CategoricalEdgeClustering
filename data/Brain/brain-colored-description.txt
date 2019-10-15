@@ -1,0 +1,3 @@
+Original data obtained from https://sites.google.com/site/bctnet/datasets
+
+There are two edge categories, depending on whether two pairs of nodes share a high fMRI score or Jaccard Index score. For pairs of nodes with both categories, we discard the edge.

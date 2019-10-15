@@ -1,0 +1,525 @@
+Beta = 70: 6069 nodes and 26760 hyperedges
+
+
+-----------------------------------------------------------------------
+korean
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (522,-,-,-) 		 514
+LPalg: 		 (331, 78, 43) 		 57 		 288 		 262 		 9 		 12 		 9 
+Major:		 (131,131,50) 		 67 		 81 		 62 		 62 		 19 		 19 
+Share:		 (69, 69,31) 		 48 		 38
+The LP includes 9 active ingredients that Majority does not:
+beef round
+snails
+hot bean paste
+baton
+pear nectar
+buckwheat noodles
+filet mignon
+golden caster sugar
+pomegranate molasses
+The LP includes 12 used ingredients that Majority does not:
+beef round
+umeboshi plum vinegar
+snails
+hot bean paste
+roasted salted cashews
+baton
+pear nectar
+buckwheat noodles
+filet mignon
+beef rump steaks
+golden caster sugar
+pomegranate molasses
+
+
+-----------------------------------------------------------------------
+russian
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (477,-,-,-) 		 283
+LPalg: 		 (78, 60, 13) 		 7 		 65 		 21 		 3 		 5 		 2 
+Major:		 (110,110,20) 		 13 		 90 		 53 		 53 		 12 		 8 
+Share:		 (57, 57,8) 		 5 		 49
+The LP includes 3 active ingredients that Majority does not:
+oat bran
+flanken short ribs
+unsweetened applesauce
+The LP includes 5 used ingredients that Majority does not:
+bermuda onion
+unsweetened applesauce
+flanken short ribs
+oat bran
+snip fresh dill
+
+
+-----------------------------------------------------------------------
+vietnamese
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (680,-,-,-) 		 540
+LPalg: 		 (65, 65, 22) 		 17 		 43 		 4 		 4 		 7 		 4 
+Major:		 (157,157,40) 		 30 		 117 		 96 		 96 		 25 		 17 
+Share:		 (61, 61,15) 		 13 		 46
+The LP includes 4 active ingredients that Majority does not:
+sliced shallots
+natural peanut butter
+boneless sirloin steak
+chili garlic paste
+The LP includes 7 used ingredients that Majority does not:
+boneless sirloin steak
+sliced shallots
+chili garlic paste
+dried rice noodles
+natural peanut butter
+nuoc cham
+light agave nectar
+
+
+-----------------------------------------------------------------------
+filipino
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (503,-,-,-) 		 363
+LPalg: 		 (85, 85, 47) 		 26 		 38 		 10 		 10 		 16 		 9 
+Major:		 (121,121,42) 		 24 		 79 		 46 		 46 		 11 		 7 
+Share:		 (75, 75,31) 		 17 		 44
+The LP includes 10 active ingredients that Majority does not:
+tapioca
+green papaya
+shrimp paste
+pork blood
+smoked & dried fish
+sugar substitute
+self raising flour
+coconut juice
+long beans
+iodized salt
+The LP includes 16 used ingredients that Majority does not:
+green papaya
+jackfruit
+shrimp paste
+pork blood
+long green pepper
+cassava
+pandan extract
+smoked & dried fish
+sugar substitute
+milkfish
+self raising flour
+coconut juice
+pepper leaves
+cane vinegar
+iodized salt
+long beans
+
+
+-----------------------------------------------------------------------
+brazilian
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (456,-,-,-) 		 275
+LPalg: 		 (75, 75, 34) 		 28 		 41 		 7 		 7 		 10 		 12 
+Major:		 (112,112,30) 		 19 		 82 		 44 		 44 		 6 		 3 
+Share:		 (68, 68,24) 		 16 		 44
+The LP includes 7 active ingredients that Majority does not:
+kumquats
+mango nectar
+almond butter
+key lime
+superfine sugar
+coco
+liquor
+The LP includes 10 used ingredients that Majority does not:
+pure acai puree
+almond butter
+superfine sugar
+liquor
+kumquats
+key lime
+mango nectar
+passion fruit juice
+coco
+sugarcane sticks
+
+
+-----------------------------------------------------------------------
+indian
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (1181,-,-,-) 		 2219
+LPalg: 		 (477, 477, 427) 		 1225 		 50 		 102 		 102 		 117 		 250 
+Major:		 (452,452,338) 		 1016 		 114 		 77 		 77 		 28 		 41 
+Share:		 (375, 375,310) 		 975 		 65
+
+
+-----------------------------------------------------------------------
+mexican
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (2126,-,-,-) 		 4854
+LPalg: 		 (1077, 1077, 961) 		 3019 		 116 		 163 		 163 		 190 		 409 
+Major:		 (1040,1040,830) 		 2710 		 210 		 126 		 126 		 59 		 100 
+Share:		 (914, 914,771) 		 2610 		 143
+
+
+-----------------------------------------------------------------------
+moroccan
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (548,-,-,-) 		 510
+LPalg: 		 (60, 60, 29) 		 34 		 31 		 8 		 8 		 11 		 8 
+Major:		 (96,96,38) 		 59 		 58 		 44 		 44 		 20 		 33 
+Share:		 (52, 52,18) 		 26 		 34
+The LP includes 8 active ingredients that Majority does not:
+grass-fed butter
+chunky peanut butter
+dried beans
+apricot nectar
+lamb stew meat
+lower sodium beef broth
+low sodium vegetable stock
+dried pear
+The LP includes 11 used ingredients that Majority does not:
+grass-fed butter
+prune juice
+Crisco Pure Canola Oil
+dried beans
+lower sodium beef broth
+apricot nectar
+low sodium vegetable stock
+chunky peanut butter
+dried pear
+chuck short ribs
+lamb stew meat
+
+
+-----------------------------------------------------------------------
+southern_us
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (1920,-,-,-) 		 2646
+LPalg: 		 (670, 670, 493) 		 797 		 177 		 121 		 121 		 153 		 211 
+Major:		 (731,731,450) 		 753 		 281 		 182 		 182 		 110 		 167 
+Share:		 (549, 549,340) 		 586 		 209
+
+
+-----------------------------------------------------------------------
+irish
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (607,-,-,-) 		 364
+LPalg: 		 (59, 59, 18) 		 14 		 41 		 5 		 5 		 10 		 6 
+Major:		 (101,101,26) 		 19 		 75 		 47 		 47 		 18 		 11 
+Share:		 (54, 54,8) 		 8 		 46
+The LP includes 5 active ingredients that Majority does not:
+potato bread
+chocolate
+ginger beer
+sourdough starter
+croissants
+The LP includes 10 used ingredients that Majority does not:
+sourdough starter
+Guinness Beer
+chocolate
+potato bread
+soda bread
+irish bacon
+ginger beer
+hot tea
+citrus fruit
+black pudding
+
+
+-----------------------------------------------------------------------
+thai
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (935,-,-,-) 		 1133
+LPalg: 		 (141, 141, 75) 		 132 		 66 		 24 		 24 		 27 		 27 
+Major:		 (187,187,79) 		 156 		 108 		 70 		 70 		 31 		 51 
+Share:		 (117, 117,48) 		 105 		 69
+The LP includes 24 active ingredients that Majority does not:
+apple juice concentrate
+coconut water
+sambal chile paste
+chopped leaves
+distilled vinegar
+unsalted roasted peanuts
+root vegetables
+pomelo
+pearl tapioca
+kecap manis
+sambal ulek
+frozen shelled edamame
+soda water
+holy basil
+bean curd
+vietnamese fish sauce
+broccoli slaw
+fish balls
+seafood stock
+trout fillet
+lychees
+pork back ribs
+frozen sweet peas
+rice stick noodles
+The LP includes 27 used ingredients that Majority does not:
+apple juice concentrate
+sambal chile paste
+pak choi
+chopped leaves
+distilled vinegar
+unsalted roasted peanuts
+root vegetables
+pomelo
+soy-based liquid seasoning
+pearl tapioca
+kecap manis
+sambal ulek
+frozen shelled edamame
+soda water
+bean curd
+vietnamese fish sauce
+broccoli slaw
+candlenuts
+fish balls
+seafood stock
+dried coconut flakes
+trout fillet
+lychees
+pork back ribs
+frozen sweet peas
+rice stick noodles
+blacan
+
+
+-----------------------------------------------------------------------
+british
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (752,-,-,-) 		 502
+LPalg: 		 (102, 102, 23) 		 16 		 79 		 8 		 8 		 8 		 4 
+Major:		 (164,164,55) 		 36 		 109 		 70 		 70 		 40 		 24 
+Share:		 (94, 94,15) 		 12 		 79
+The LP includes 8 active ingredients that Majority does not:
+rutabaga
+large free range egg
+medium curry powder
+spelt flour
+eating apple
+mixed peel
+beef shoulder
+full fat cream cheese
+The LP includes 8 used ingredients that Majority does not:
+spelt flour
+eating apple
+shortcrust pastry
+large free range egg
+medium curry powder
+suet
+beef shoulder
+full fat cream cheese
+
+
+-----------------------------------------------------------------------
+chinese
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (1294,-,-,-) 		 1728
+LPalg: 		 (461, 461, 339) 		 545 		 122 		 97 		 97 		 115 		 173 
+Major:		 (426,426,264) 		 441 		 162 		 62 		 62 		 40 		 69 
+Share:		 (364, 364,224) 		 372 		 140
+
+
+-----------------------------------------------------------------------
+japanese
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (993,-,-,-) 		 1036
+LPalg: 		 (272, 272, 191) 		 316 		 81 		 48 		 48 		 61 		 67 
+Major:		 (259,259,152) 		 281 		 107 		 35 		 35 		 22 		 32 
+Share:		 (224, 224,130) 		 249 		 94
+
+
+-----------------------------------------------------------------------
+french
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (1574,-,-,-) 		 1635
+LPalg: 		 (266, 266, 66) 		 40 		 200 		 24 		 24 		 36 		 24 
+Major:		 (442,442,172) 		 139 		 270 		 200 		 200 		 142 		 123 
+Share:		 (242, 242,30) 		 16 		 212
+The LP includes 24 active ingredients that Majority does not:
+dill seed
+ruby red grapefruit
+strawberry ice cream
+wondra flour
+beef shoulder roast
+tangerine juice
+quinces
+sorbet
+cider
+icing
+duxelles
+quatre épices
+baking spray
+prunes
+demerara sugar
+cointreau
+seltzer
+black bass
+chocolate chips
+dark muscovado sugar
+reduced fat firm tofu
+Equal Sweetener
+dry hard cider
+sour cherries
+
+
+-----------------------------------------------------------------------
+greek
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (731,-,-,-) 		 632
+LPalg: 		 (84, 84, 25) 		 16 		 59 		 10 		 10 		 11 		 7 
+Major:		 (105,105,38) 		 38 		 67 		 31 		 31 		 24 		 29 
+Share:		 (74, 74,14) 		 9 		 60
+The LP includes 10 active ingredients that Majority does not:
+spearmint
+shrimp heads
+frozen mango
+stevia extract
+chunk light tuna in water
+mango juice
+vanilla bean paste
+unsalted pistachios
+filo
+Swerve Sweetener
+The LP includes 11 used ingredients that Majority does not:
+vanilla bean paste
+2% lowfat greek yogurt
+shrimp heads
+stevia extract
+unsalted pistachios
+dried apple rings
+filo
+Swerve Sweetener
+honey-flavored greek style yogurt
+mango juice
+frozen mango
+
+
+-----------------------------------------------------------------------
+spanish
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (769,-,-,-) 		 557
+LPalg: 		 (69, 69, 16) 		 8 		 53 		 9 		 9 		 10 		 5 
+Major:		 (88,88,17) 		 17 		 71 		 28 		 28 		 11 		 14 
+Share:		 (60, 60,6) 		 3 		 54
+The LP includes 9 active ingredients that Majority does not:
+Piment d'Espelette
+gold potatoes
+green apples
+tuna fillets
+conch
+unsalted vegetable stock
+pure olive oil
+european style butter
+chervil
+The LP includes 10 used ingredients that Majority does not:
+unsalted vegetable stock
+gold potatoes
+sour orange juice
+tuna fillets
+pure olive oil
+piment despelette
+european style butter
+chervil
+conch
+blanco chees queso
+
+
+-----------------------------------------------------------------------
+cajun_creole
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (1078,-,-,-) 		 1036
+LPalg: 		 (161, 161, 64) 		 89 		 97 		 13 		 13 		 10 		 8 
+Major:		 (206,206,87) 		 123 		 119 		 58 		 58 		 33 		 42 
+Share:		 (148, 148,54) 		 81 		 94
+The LP includes 13 active ingredients that Majority does not:
+vanilla essence
+brisket
+Splenda Brown Sugar Blend
+italian seasoning mix
+blue cheese dressing
+diced ham
+cocktail sauce
+toasted baguette
+rye whiskey
+non fat chicken stock
+brown ale
+breasts halves
+shrimp and crab boil seasoning
+The LP includes 10 used ingredients that Majority does not:
+brisket
+italian seasoning mix
+polish sausage
+blue cheese dressing
+diced ham
+cocktail sauce
+non fat chicken stock
+brown ale
+breasts halves
+shrimp and crab boil seasoning
+
+
+-----------------------------------------------------------------------
+jamaican
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (478,-,-,-) 		 290
+LPalg: 		 (47, 47, 10) 		 10 		 37 		 3 		 3 		 3 		 2 
+Major:		 (58,58,16) 		 15 		 42 		 14 		 14 		 9 		 7 
+Share:		 (44, 44,7) 		 8 		 37
+The LP includes 3 active ingredients that Majority does not:
+sandwich bread
+minute rice
+dried chives
+The LP includes 3 used ingredients that Majority does not:
+sazon goya with coriander and annatto
+sandwich bread
+minute rice
+
+
+-----------------------------------------------------------------------
+italian
+ I = ingredients; A = Active; U = Used
+-------------------------------------------------------------------------------------------------
+		 (I,A,U) 	 # Recipes 	 # Waste 	 Ing Diff 	 Active Diff 	 Used Diff 	 Recipes Diff 
+Every:		 (2393,-,-,-) 		 5643
+LPalg: 		 (1489, 1489, 1363) 		 3938 		 126 		 440 		 440 		 516 		 968 
+Major:		 (1083,1083,876) 		 3020 		 207 		 34 		 34 		 29 		 50 
+Share:		 (1049, 1049,847) 		 2970 		 202

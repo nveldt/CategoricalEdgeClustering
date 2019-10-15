@@ -1,0 +1,63 @@
+Beta = 20: 5162 nodes and 14057 hyperedges
+There are 15 ingredients that LP includes and MV does not
+
+The LP includes 15 ingredients that Majority does not:
+medium curry powder, pie pastry, marmalade, full fat cream cheese, smoked haddock fillet, custard, hot tea, beef rib roast, gooseberries, beef shoulder, curly-leaf parsley, single crust pie, Melba toast, roast beef, oatmeal, 
+The LP uses 6 additional ingredients that Majority does not use:
+tikka paste, eating apple, au jus gravy, smoked mackerel, sweet white wine, elderflower cordial, 
+LP can make the following recipes that Majority Vote cannot.
+
+
+Recipe 1 with common ingredients:
+ orange, apples, pie pastry, mincemeat, 
+
+Recipe 2 with common ingredients:
+ bay leaves, sunflower oil, frozen peas, smoked haddock fillet, double cream, fresh parsley, medium curry powder, butter, free range egg, basmati rice, ground black pepper, lemon, onions, 
+
+Recipe 3 with common ingredients:
+ eggs, all-purpose flour, prepared horseradish, roast beef, milk, au jus gravy, salt, canola oil, 
+
+Recipe 4 with common ingredients:
+ demerara sugar, whole milk, marmalade, ground ginger, unsalted butter, golden raisins, bread, sugar, dark rum, eggs, egg yolks, heavy cream, 
+
+Recipe 5 with common ingredients:
+ flour, drippings, roast beef, ground pepper, garlic cloves, 
+
+Recipe 6 with common ingredients:
+ mayonaise, stilton cheese, butter, bread slices, prepared horseradish, roast beef, purple onion, arugula, 
+
+Recipe 7 with common ingredients:
+ Melba toast, stilton, tawny port, hazelnuts, cream cheese, soften, 
+
+Recipe 8 with common ingredients:
+ milk, tikka paste, green beans, tumeric, smoked mackerel, rice, ground cumin, eggs, cherry tomatoes, purple onion, fresh parsley, medium curry powder, mushrooms, ground coriander, 
+
+Recipe 9 with common ingredients:
+ light brown sugar, baking powder, self rising flour, custard, black treacle, butter, large eggs, golden syrup, 
+
+Recipe 10 with common ingredients:
+ butter, onions, white pepper, salt, potatoes, oatmeal, curly-leaf parsley, double cream, 
+
+Recipe 11 with common ingredients:
+ brown sugar, raisins, eggs, ground nutmeg, golden syrup, single crust pie, butter, pastry, salt, 
+
+Recipe 12 with common ingredients:
+ hazelnuts, elderflower cordial, gooseberries, sweet white wine, caster sugar, double cream, lime, 
+
+Recipe 13 with common ingredients:
+ whole wheat flour, raisins, light brown sugar, buttermilk, hot tea, baking powder, jam, unsalted butter, salt, 
+
+Recipe 14 with common ingredients:
+ cold water, potatoes, onions, beef shoulder, salt, suet, lard, black pepper, flour, 
+
+Recipe 15 with common ingredients:
+ pastry, potatoes, round steaks, beef kidney, dried thyme, salt, bay leaf, single crust pie, ground black pepper, all-purpose flour, onions, water, worcestershire sauce, lard, 
+
+Recipe 16 with common ingredients:
+ beef drippings, beef rib roast, all-purpose flour, marjoram, horseradish, milk, purple onion, garlic cloves, eggs, pepper, cracked black pepper, beef broth, cream, dried thyme, salt, onions, 
+
+Recipe 17 with common ingredients:
+ eggs, potatoes, shortcrust pastry, medium curry powder, butter, fresh parsley, cheddar cheese, leeks, oil, milk, garlic, 
+
+Recipe 18 with common ingredients:
+ unsalted butter, full fat cream cheese, walnuts, eating apple, cheese, 

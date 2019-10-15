@@ -1,0 +1,54 @@
+Beta = 20: 5162 nodes and 14057 hyperedges
+There are 16 ingredients that LP includes and MV does not
+
+The LP includes 16 ingredients that Majority does not:
+biscuit mix, decorating sugars, peppermint extract, rounds, london broil, shortbread cookies, OREO® Cookies, potato bread, flax seed meal, cream cheese frosting, ginger beer, chopped potatoes, dried chives, brown mustard, croissants, rye flour, 
+The LP uses 12 additional ingredients that Majority does not use:
+irish bacon, lemon curd, soda bread, jimmies, caster, black pudding, wheat bran, young nettle, mint chocolate chip ice cream, instant pudding mix, butterscotch filling, Jameson Irish Whiskey, 
+LP can make the following recipes that Majority Vote cannot.
+
+
+Recipe 1 with common ingredients:
+ fat free yogurt, biscuit mix, large eggs, fresh parmesan cheese, dried chives, cooking spray, 
+
+Recipe 2 with common ingredients:
+ lemon curd, whipping cream, mint sprigs, orange liqueur, orange, strawberries, sugar, shortbread cookies, 
+
+Recipe 3 with common ingredients:
+ butter, brown sugar, corn flour, rye flour, decorating sugars, 
+
+Recipe 4 with common ingredients:
+ leeks, salt, butter, freshly ground pepper, chopped potatoes, chopped onion, homemade chicken stock, heavy cream, young nettle, 
+
+Recipe 5 with common ingredients:
+ instant pudding mix, sprinkles, whipped cream, milk, OREO® Cookies, color food green, 
+
+Recipe 6 with common ingredients:
+ fresh lime juice, Irish whiskey, ginger beer, lime wedges, 
+
+Recipe 7 with common ingredients:
+ horseradish, dijon mustard, salt, london broil, pepper, heavy cream, lemon juice, olive oil, garlic, sour cream, soy sauce, chopped fresh thyme, rounds, 
+
+Recipe 8 with common ingredients:
+ pepper, salt, beer, Jameson Irish Whiskey, honey, cream cheese, brown mustard, dried thyme, cayenne pepper, onions, sugar, butter, sharp cheddar cheese, 
+
+Recipe 9 with common ingredients:
+ wheat bran, salt, low-fat buttermilk, flax seed meal, whole wheat flour, all-purpose flour, molasses, baking powder, 
+
+Recipe 10 with common ingredients:
+ mint chocolate chip ice cream, whipped cream, chocolate syrup, cream, OREO® Cookies, jimmies, milk, 
+
+Recipe 11 with common ingredients:
+ irish bacon, vegetable oil, eggs, black pudding, soda bread, potato bread, tomatoes, sausages, 
+
+Recipe 12 with common ingredients:
+ irish cream liqueur, large eggs, vanilla extract, pecan halves, baking soda, buttermilk, chopped pecans, cream cheese frosting, butter, all-purpose flour, shortening, granulated sugar, butterscotch filling, 
+
+Recipe 13 with common ingredients:
+ sugar, peppermint extract, low-fat milk, pure vanilla extract, color food green, vanilla ice cream, 
+
+Recipe 14 with common ingredients:
+ croissants, softened butter, eggs, caster, ground cinnamon, raisins, milk, heavy cream, 
+
+Recipe 15 with common ingredients:
+ eggs, unsalted butter, dark brown sugar, superfine sugar, salt, unsweetened cocoa powder, cream cheese frosting, stout, sour cream, pure vanilla extract, baking soda, all-purpose flour, 

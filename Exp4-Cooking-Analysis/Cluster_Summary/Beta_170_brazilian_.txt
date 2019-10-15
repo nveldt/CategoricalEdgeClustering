@@ -1,0 +1,78 @@
+Beta = 170: 6401 nodes and 33744 hyperedges
+There are 10 ingredients that LP includes and MV does not
+
+The LP includes 10 ingredients that Majority does not:
+simple syrup, light rum, ice, superfine sugar, key lime, coco, kumquats, liquor, mango nectar, vanilla essence, 
+The LP uses 9 additional ingredients that Majority does not use:
+hibiscus flowers, frozen banana, açai, licor 43, fruit puree, chia seeds, mango juice, passion fruit juice, sugarcane sticks, 
+LP can make the following recipes that Majority Vote cannot.
+
+
+Recipe 1 with common ingredients:
+ crushed ice, lime, cachaca, fruit puree, simple syrup, 
+
+Recipe 2 with common ingredients:
+ lime juice, cachaca, kumquats, sugar, ice, 
+
+Recipe 3 with common ingredients:
+ lemon, licor 43, ice, sugar, light rum, 
+
+Recipe 4 with common ingredients:
+ sugar, cachaca, ice, lime, 
+
+Recipe 5 with common ingredients:
+ superfine sugar, cachaca, lime juice, passion fruit juice, 
+
+Recipe 6 with common ingredients:
+ sugarcane sticks, lime, cachaca, lime wedges, superfine sugar, 
+
+Recipe 7 with common ingredients:
+ sugar, ice, hibiscus flowers, cachaca, lime wedges, 
+
+Recipe 8 with common ingredients:
+ crushed ice, cachaca, lime, superfine sugar, 
+
+Recipe 9 with common ingredients:
+ cachaca, cold water, ice, lime, simple syrup, 
+
+Recipe 10 with common ingredients:
+ fresh lime juice, lime, cachaca, superfine sugar, 
+
+Recipe 11 with common ingredients:
+ granulated sugar, key lime, cachaca, 
+
+Recipe 12 with common ingredients:
+ crushed ice, key lime, superfine sugar, cachaca, 
+
+Recipe 13 with common ingredients:
+ cachaca, lime, ice, granulated sugar, 
+
+Recipe 14 with common ingredients:
+ mango juice, crushed ice, superfine sugar, cachaca, lime wedges, 
+
+Recipe 15 with common ingredients:
+ açai, frozen banana, chia seeds, cinnamon, ice, spinach, coconut milk, 
+
+Recipe 16 with common ingredients:
+ lime, crushed ice, simple syrup, cachaca, 
+
+Recipe 17 with common ingredients:
+ superfine sugar, cachaca, crushed ice, lime, 
+
+Recipe 18 with common ingredients:
+ lime, ice, cachaca, sugar, 
+
+Recipe 19 with common ingredients:
+ sugar, ice, liquor, mango nectar, lime, mango, cachaca, 
+
+Recipe 20 with common ingredients:
+ cachaca, lime, simple syrup, 
+
+Recipe 21 with common ingredients:
+ cachaca, sugar, ice, lime, 
+
+Recipe 22 with common ingredients:
+ superfine sugar, crushed ice, lime wedges, lime, cachaca, 
+
+Recipe 23 with common ingredients:
+ cachaca, superfine sugar, lime, coco, 

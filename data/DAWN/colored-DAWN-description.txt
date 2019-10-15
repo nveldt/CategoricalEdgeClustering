@@ -1,0 +1,14 @@
+Data obtained from https://www.datafiles.samhsa.gov/study-series/drug-abuse-warning-network-dawn-nid13516.
+
+A hyperedge corresponds to the set of drugs a patient reported in a visit to the ER. The color is the most common patient disposition (where the patient went after the visit)
+for that drug combination. The disposition labels are:
+1: DISCHARGED HOME
+2: RELEASED TO POLICE/JAIL
+3: REFERRED TO DETOX/TREATMENT
+4: ICU/CRITICAL CARE
+5: SURGERY
+6: CHEMICAL DEPENDENCY/DETOX, PSYCHIATRIC UNIT
+7: OTHER INPATIENT UNIT
+8: TRANSFERRED
+9: LEFT AGAINST MEDICAL ADVICE
+10: DIED

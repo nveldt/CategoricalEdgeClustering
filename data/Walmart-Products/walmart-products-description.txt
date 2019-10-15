@@ -1,0 +1,9 @@
+The Walmart-Trips dataset was derived from https://www.kaggle.com/c/walmart-recruiting-trip-type-classification.
+
+Data for product categories can also be obtained from the same source. Hyperedge and node data, along with a description of metadata for each, is given in the walmart-all folder.
+
+The Walmart-Products dataset is formed by filtering the original 68 product categories into ten broader departments from Walmart.com. The mapping from 68 product categories to the 10 departments is given in 'Ten_departments.txt'.
+
+Department labels are extracted from data and stored in a JLD file for later experiments.
+
+
