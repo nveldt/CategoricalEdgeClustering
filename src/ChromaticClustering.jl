@@ -6,7 +6,6 @@ using JuMP
 using Gurobi
 
 include("SyntheticGenerator.jl")
-include("isolating_heuristic.jl")
 
 gurobi_env = Gurobi.Env()
 
