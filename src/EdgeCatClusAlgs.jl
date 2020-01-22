@@ -4,6 +4,7 @@ using LinearAlgebra
 using StatsBase
 using JuMP
 using Gurobi
+using Clustering
 
 include("SyntheticGenerator.jl")
 
@@ -341,7 +342,6 @@ function LazyChromaticBalls(EdgeList::Array{Int64,2},EdgeColors::Array{Int64,1},
         neighbsX = findall(x->x == colorx,Anew[X,:])
 
         # Consider only neighbors of x, and look only at the number of colorx edges they are indicent to
-        # @show neighbsX, colorx
         yweights = aweights(ColorDegree[neighbsX,colorx])
 
         Y = StatsBase.sample(neighbsX,yweights)
@@ -483,9 +483,6 @@ function NaiveLabel(EdgeList::Array{Int64,2},EdgeColors::Array{Int64,1},n::Int64
         cneighbs = nonzeros(A[i,:])
         if length(cneighbs) > 0
             color = round(Int64,StatsBase.mode(cneighbs))
-            if color > 10
-                @show color, cneighbs
-            end
             naive_c[i] = color
         else
             naive_c[i] = rand(1:k)
@@ -718,7 +715,6 @@ function CountInclusion(nodes::Vector{Int64}, EdgeList::Vector{Vector{Int64}})
     count = 0
     for edge in EdgeList
         remain = setdiff(nodes,edge)
-        @show length(remain)
         if length(remain) == 0
             count += 1
         end
@@ -809,4 +805,12 @@ function Hypergraph2Graph(EdgeList::Vector{Vector{Int64}},EdgeLabels::Vector{Int
     end
 
     return round.(Int64,NewList), NewLabels
+end
+
+# Returns the ari score between two clusterings.
+# Requires Clustering package
+function ari(x,y)
+    evaluations = randindex(x, y)
+    ari = evaluations[1]
+    return ari
 end

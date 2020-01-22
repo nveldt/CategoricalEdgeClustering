@@ -12,13 +12,13 @@ ws = 0.0:.05:0.75
 numws = length(ws)
 numtimes = 5
 
-## Store the color identification accuracy for each method
+## Store the label identification accuracy for each method
 maj_accs = zeros(numws,numtimes)
 lp_accs = zeros(numws,numtimes)
 cballs_accs = zeros(numws,numtimes)
 lcballs_accs = zeros(numws,numtimes)
 
-## Store runtimes, just in case we end up caring
+## Store runtimes
 lp_run = zeros(numws,numtimes)
 cballs_run = zeros(numws,numtimes)
 lcballs_run = zeros(numws,numtimes)

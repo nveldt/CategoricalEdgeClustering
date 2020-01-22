@@ -1,5 +1,6 @@
 using Plots
 using MAT
+using Statistics
 
 # First Experiment
 name = "Graph_Output/Synthetic_vary_kl_Graph_Results.mat"

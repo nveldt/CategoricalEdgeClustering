@@ -20,7 +20,7 @@ lp_accs = zeros(numws,numtimes)
 cballs_accs = zeros(numws,numtimes)
 lcballs_accs = zeros(numws,numtimes)
 
-## Store runtimes, just in case we end up caring
+## Store runtimes (runtime for majority vote is negligible)
 lp_run = zeros(numws,numtimes)
 cballs_run = zeros(numws,numtimes)
 lcballs_run = zeros(numws,numtimes)
@@ -30,7 +30,7 @@ for ii = 1:numLs
     Lbound = Ls[ii]
     Kbound = Lbound
 
-    # Save the output of each method for this value of alpha
+    # Save the output of each method for this value of w
     lps = zeros(n,numtimes)
     majs = zeros(n,numtimes)
     cballs = zeros(n,numtimes)
@@ -77,13 +77,13 @@ for ii = 1:numLs
 
     end
 
-    # Save the output for this alpha
-    matwrite("Output/Synthetic_VaryKL_Graph_L_$Lbound.mat",Dict("lcballs" => lcballs,
+    # Save the output for this L
+    matwrite("Graph_Output/Synthetic_VaryKL_Graph_L_$Lbound.mat",Dict("lcballs" => lcballs,
     "cballs" => cballs, "majs" => majs, "lps" => lps, "w" => w))
 
 end
 
 ## Save Overall Output
-matwrite("Output/Synthetic_VaryKL_Graph_Results.mat",Dict("Ls" => collect(Ls),
+matwrite("Graph_Output/Synthetic_VaryKL_Graph_Results.mat",Dict("Ls" => collect(Ls),
 "lcballs_accs" => lcballs_accs, "cballs_run" => cballs_run,
 "cballs_accs" => cballs_accs, "maj_accs" => maj_accs,"lp_accs" => lp_accs)
